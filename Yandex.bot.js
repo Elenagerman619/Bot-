@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       Tyurina Marina
+// @author       German
 // @match        https://yandex.ru/*
 // @match        https://xn----7sbab5aqcbiddtdj1e1g.xn--p1ai/*
 // @icon
